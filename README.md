@@ -32,7 +32,7 @@ recognition of 5-star players: device, electronic, NiKo, s1mple, ZywOo.
 
 · **Literature review with links:**
 
-\1. <https://www.youtube.com/watch?v=uqomO_BZ44g>
+1. <https://www.youtube.com/watch?v=uqomO_BZ44g>
 
 In this video, the author makes a classification between emotions (happy
 
@@ -40,21 +40,21 @@ and sad). By this video I understood how to work with my own created
 
 dataset and make predictions.
 
-\2. <https://www.youtube.com/watch?v=m1dQ38qDABw>
+2. <https://www.youtube.com/watch?v=m1dQ38qDABw>
 
-\3. <https://www.youtube.com/watch?v=kwKfWBb6frs>
+3. <https://www.youtube.com/watch?v=kwKfWBb6frs>
 
 Thanks to these videos, I understood how to collect images for a dataset
 
 and how to clean them.
 
-\4. <https://www.tensorflow.org/tutorials/images/cnn?hl=ru>
+4. <https://www.tensorflow.org/tutorials/images/cnn?hl=ru>
 
 In the official Tensorflow website above, I learned how to use CNN
 
 (Convolutional layers) correctly in the model.
 
-\5. [https://medium.com/ymedialabs-innovation/data-augmentation-](https://medium.com/ymedialabs-innovation/data-augmentation-techniques-in-cnn-using-tensorflow-371ae43d5be9)
+5. [https://medium.com/ymedialabs-innovation/data-augmentation-](https://medium.com/ymedialabs-innovation/data-augmentation-techniques-in-cnn-using-tensorflow-371ae43d5be9)
 
 [techniques-in-cnn-using-tensorflow-371ae43d5be9](https://medium.com/ymedialabs-innovation/data-augmentation-techniques-in-cnn-using-tensorflow-371ae43d5be9)
 
@@ -68,15 +68,11 @@ augmentation can affect photos in the training set
 
 My current work consisted of:
 
-\1) Creating the frontend part of the project (HTML/CSS/Bootstrap/JS)
+1) Creating the frontend part of the project (HTML/CSS/Bootstrap/JS)
 
-\2) Creating the backend part of the project (Node.js/Express.js)
+2) Creating the backend part of the project (Node.js/Express.js)
 
-
-
-
-
-\3) Creating the main part of a machine learning project (create, train and
+3) Creating the main part of a machine learning project (create, train and
 
 save a model using Tensorflow, then convert this my\_model.h5 file into
 
@@ -111,9 +107,6 @@ different photos so that they would not be duplicated.
 **my own dataset of 500 images**
 
 
-
-
-
 After I trained the model, I displayed accuracy (pic. 2) and loss (pic. 3)
 
 graphs for a clear example of how data augmentation helps to prevent
@@ -123,9 +116,6 @@ overfitting.
 **Pic. 2. Train accuracy and validation accuracy of the model**
 
 **Pic. 3. Train loss and validation loss of the model**
-
-
-
 
 
 I also want to mention that I used data augmentation in order to prevent
@@ -143,9 +133,6 @@ I used a sequential model with 4 Convolutional layers, Flatten layer,
 dropout to prevent overfitting, fully connected dense layer and output
 
 dense layer (pic. 5).
-
-
-
 
 
 **Pic. 5. Sequential model in my project**
@@ -180,10 +167,6 @@ developed for this project. The classes have adopted indexes: {0: 'device', 1:
 
 the prediction of the “s1mple” (pic. 6), the prediction of the “NiKo” (pic. 7),
 
-
-
-
-
 the prediction of the “device” (pic. 8), the prediction of the “ZywOo” (pic.
 
 9), the prediction of the “electronic” (pic. 10).
@@ -192,17 +175,9 @@ the prediction of the “device” (pic. 8), the prediction of the “ZywOo” (
 
 **Pic. 7. Classification by the “NiKo” face**
 
-
-
-
-
 **Pic. 8. Classification by the “device” face**
 
 **Pic. 9. Classification by the “ZywOo” face**
-
-
-
-
 
 **Pic. 10. Classification by the “electronic” face**
 
@@ -224,21 +199,17 @@ one of my successful ones in the portfolio.
 
 YouTube videos:
 
-\1. <https://www.youtube.com/watch?v=uqomO_BZ44g>
+1. <https://www.youtube.com/watch?v=uqomO_BZ44g>
 
-\2. <https://www.youtube.com/watch?v=m1dQ38qDABw>
+2. <https://www.youtube.com/watch?v=m1dQ38qDABw>
 
-\3. <https://www.youtube.com/watch?v=kwKfWBb6frs>
+3. <https://www.youtube.com/watch?v=kwKfWBb6frs>
 
 Official Tensorflow website:
 
-\4. <https://www.tensorflow.org/tutorials/images/cnn?hl=ru>
+4. <https://www.tensorflow.org/tutorials/images/cnn?hl=ru>
 
-\5. <https://www.tensorflow.org/js/tutorials/conversion/import_keras?hl=ru>
-
-
-
-
+5. <https://www.tensorflow.org/js/tutorials/conversion/import_keras?hl=ru>
 
 Medium forum:
 
@@ -248,15 +219,15 @@ Medium forum:
 
 HLTV (Half-life TV) official website:
 
-\7. <https://www.hltv.org/galleries>
+7. <https://www.hltv.org/galleries>
 
 Google Images:
 
-\8. <https://images.google.com/>
+8. <https://images.google.com/>
 
 Starter code from the Github:
 
-\9. <https://github.com/tensorflow/tfjs-examples/tree/master/mobilenet>
+9. <https://github.com/tensorflow/tfjs-examples/tree/master/mobilenet>
 
 [10.](https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/first_edition/5.2-using-convnets-with-small-datasets.ipynb)[https://github.com/fchollet/deep-learning-with-python-](https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/first_edition/5.2-using-convnets-with-small-datasets.ipynb)
 
