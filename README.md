@@ -1,14 +1,8 @@
 **Report**
 
-Abdurakhim Bakytzhan 
-
 IT-2106 
 
-Advanced Programming 
-
-Yeleu Sultanmurat 
-
-Astana, 2023 
+Abdurakhim Bakytzhan 
 
 Github link:[ https://github.com/aBacoding/PlayersClassification.git ](https://github.com/aBacoding/PlayersClassification.git)
 
