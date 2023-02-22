@@ -1,7 +1,9 @@
-**Report**              Abdurakhim Bakytzhan Astana IT University IT-2106 
-
-Advanced Programming Yeleu Sultanmurat 
-
+**Report**              
+Abdurakhim Bakytzhan 
+Astana IT University 
+IT-2106 
+Advanced Programming 
+Yeleu Sultanmurat 
 Astana, 2023 
 
 Github link:[ https://github.com/aBacoding/PlayersClassification.git ](https://github.com/aBacoding/PlayersClassification.git)YouTube video link:[ https://youtu.be/YqCU-kOthqo ](https://youtu.be/YqCU-kOthqo)
