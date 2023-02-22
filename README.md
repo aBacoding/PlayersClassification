@@ -1,5 +1,3 @@
-﻿![](Aspose.Words.e9a466b0-9c76-491c-9c37-1cbdaddbb228.001.png)
-
 **Report**              Abdurakhim Bakytzhan Astana IT University IT-2106 
 
 Advanced Programming Yeleu Sultanmurat 
