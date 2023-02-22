@@ -134,7 +134,7 @@ HLTV (Half-life TV) official website:
 
 Google Images: 
 
-7. [https://images.google.com/ ](https://images.google.com/)
+8. [https://images.google.com/ ](https://images.google.com/)
 
 Starter code from the Github: 
 
