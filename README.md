@@ -46,7 +46,7 @@ Link to my dataset for preview:  [https://drive.google.com/drive/folders/1Bq9DUW
 
 To train the model, I created my dataset with an image of 5 players (100 images for each, 50 for training and 50 for validation) (pic. 1). Thanks to the website[ hltv.org ](https://www.hltv.org/)I downloaded most of the images and cleaned them (cropped the faces from the image, tried to take only high-quality images), and thanks to[ google images,](https://images.google.com/) I supplemented my dataset with different photos so that they would not be duplicated. 
 
-![](Aspose.Words.e9a466b0-9c76-491c-9c37-1cbdaddbb228.002.png)
+![(Aspose.Words.e9a466b0-9c76-491c-9c37-1cbdaddbb228.002.png)](https://user-images.githubusercontent.com/97093590/220779583-fa4a6798-ed9d-45a4-8f9c-8fa252262290.png)
 
 **Pic. 1.Setting the image size to 250 and batch size to 32, also creating my own dataset of 500 images** 
 
