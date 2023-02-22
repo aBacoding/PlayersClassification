@@ -130,7 +130,10 @@ Medium forum:
 
 HLTV (Half-life TV) official website: 
 
-7. [https://www.hltv.org/galleries ](https://www.hltv.org/galleries)Google Images: 
+7. [https://www.hltv.org/galleries ](https://www.hltv.org/galleries)
+
+Google Images: 
+
 7. [https://images.google.com/ ](https://images.google.com/)
 
 Starter code from the Github: 
