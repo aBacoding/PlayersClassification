@@ -2,8 +2,6 @@
 
 Abdurakhim Bakytzhan 
 
-Astana IT University 
-
 IT-2106 
 
 Advanced Programming 
