@@ -111,7 +111,7 @@ YouTube videos:
 1. [https://www.youtube.com/watch?v=m1dQ38qDABw ](https://www.youtube.com/watch?v=m1dQ38qDABw)
 1. [https://www.youtube.com/watch?v=kwKfWBb6frs ](https://www.youtube.com/watch?v=kwKfWBb6frs)
 
-Official Tensorflow website:** 
+Official Tensorflow website: 
 
 4. [https://www.tensorflow.org/tutorials/images/cnn?hl=ru ](https://www.tensorflow.org/tutorials/images/cnn?hl=ru)
 4. [https://www.tensorflow.org/js/tutorials/conversion/import_keras?hl=ru ](https://www.tensorflow.org/js/tutorials/conversion/import_keras?hl=ru)
